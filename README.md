@@ -1,2 +1,2 @@
 TO run:
-nodejs filename.js
+node filename.js
